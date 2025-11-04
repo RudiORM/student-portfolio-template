@@ -53,4 +53,4 @@ Feel free to connect with me:
 
 ---
 
-[Back to Home](/) | [View Projects](/projects)
+[Back to Home](.) | [View Projects](projects)

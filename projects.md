@@ -27,4 +27,4 @@ Check out my [GitHub profile](https://github.com/yourusername) for more projects
 
 ---
 
-[Back to Home](/) | [About Me](/about)
+[Back to Home](.) | [About Me](about)

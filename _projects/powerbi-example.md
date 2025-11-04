@@ -88,7 +88,7 @@ Working on this project helped me understand:
 
 ## View More Projects
 
-[← Back to All Projects](/projects) | [Home](/)
+[← Back to All Projects](../projects) | [Home](../)
 
 ---
 
