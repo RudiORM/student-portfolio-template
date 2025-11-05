@@ -1,6 +1,6 @@
 # Student Portfolio Template
 
-A simple Jekyll-based portfolio website template for students. Perfect for showcasing your projects, including PowerBI dashboards and other work.
+A simple Jekyll-based portfolio website template for amazing students who come in at 9am. Perfect for showcasing your projects, including PowerBI dashboards and other work.
 
 ## 🚀 Quick Start for Students
 
